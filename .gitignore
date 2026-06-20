@@ -1,0 +1,102 @@
+# =====================================
+# Verilog / SystemVerilog Simulation
+# =====================================
+
+# Icarus Verilog
+a.out
+*.out
+*.vvp
+
+# VCD waveform files
+*.vcd
+*.fst
+*.lxt
+*.ghw
+
+# GTKWave session files
+*.gtkw
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# =====================================
+# ModelSim / QuestaSim
+# =====================================
+
+work/
+transcript
+vsim.wlf
+*.wlf
+modelsim.ini
+
+# =====================================
+# Vivado
+# =====================================
+
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.srcs/
+.Xil/
+
+*.jou
+*.log
+*.str
+
+# Generated bitstreams
+*.bit
+*.bin
+
+# Reports
+*.rpt
+
+# Checkpoints
+*.dcp
+
+# =====================================
+# Quartus
+# =====================================
+
+db/
+incremental_db/
+output_files/
+
+*.qws
+*.qdf
+*.smsg
+*.srf
+
+# =====================================
+# OS Files
+# =====================================
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# =====================================
+# VS Code
+# =====================================
+
+.vscode/
+
+# =====================================
+# Python (if future scripts added)
+# =====================================
+
+__pycache__/
+*.pyc
+
+# =====================================
+# Generated PDFs (Optional)
+# Uncomment if you don't want reports tracked
+# =====================================
+
+# *.pdf
