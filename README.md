@@ -225,6 +225,46 @@ gtkwave alu.vcd
 
 ---
 
+# 📷 Project Screenshots
+
+## Project Structure
+
+<p align="center">
+  <img src="images/project_structure.png" width="850">
+</p>
+
+## Simulation Output
+
+<p align="center">
+  <img src="simulation/simulation_output.png" width="850">
+</p>
+
+## Waveform Analysis
+
+<p align="center">
+  <img src="waveforms/waveform.png" width="850">
+</p>
+
+## ADD Operation Verification
+
+<p align="center">
+  <img src="images/add_operation.png" width="850">
+</p>
+
+## Compare Operation Verification
+
+<p align="center">
+  <img src="images/compare_operation.png" width="850">
+</p>
+
+## Operand Isolation Verification
+
+<p align="center">
+  <img src="images/operand_isolation.png" width="850">
+</p>
+
+---
+
 # 📈 Waveform Analysis
 
 The generated waveform confirms:
